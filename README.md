@@ -1,4 +1,4 @@
-#Style Guide
+# Style Guide
 
 Let's adhere to some basic stylistic standards for our Confluence documentation.
 
