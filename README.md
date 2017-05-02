@@ -32,7 +32,7 @@ Anything beyond a single argument is written in a code block, to make it easy to
 ### File System / Path in context
 File paths in documentation are written in `monospace` text, for clarity
 
-The Screensaver Preferences are located, for each monitor, at `~/Library/Preferences/ByHost/com.apple.screensaver.RANDOMNUMBER.plist`
+The `Screensaver Preferences` are located, for each monitor, at `~/Library/Preferences/ByHost/com.apple.screensaver.RANDOMNUMBER.plist`
 
 ### Variables
 Variables are identified in-context with _italics_ and in-code with brackets [username]@FQDN.com
