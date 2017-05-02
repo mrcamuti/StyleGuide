@@ -20,7 +20,7 @@ How a team member achieves the desired outcome is up to them.
 
          alias rei="ssh [username]@rei.sf.crunchyroll.com"
      
-###Code
+### Code
 Commands containing a single argument are written with monospace text (the 'preformatted' option does the same thing, but to an entire line's styling, and prevents any indenting):
 
 `cd /Users/`
@@ -29,15 +29,15 @@ Anything beyond a single argument is written in a code block, to make it easy to
 
     cat /Users/root/docs/aws-iam-users.txt | grep username
 
-###File System / Path in context
+### File System / Path in context
 File paths in documentation are written in `monospace` text, for clarity
 
 The Screensaver Preferences are located, for each monitor, at `~/Library/Preferences/ByHost/com.apple.screensaver.RANDOMNUMBER.plist`
 
-###Variables
+### Variables
 Variables are identified in-context with _italics_ and in-code with brackets [username]@FQDN.com
 
-###Links
+### Links
 Links are written in Fully Qualified Domain Name (FQDN), unless a common abbreviation is made in-text, and the FQDN link is made behind-the-scenes.
 
 We support connections to [Rei](rei.sf.crunchyroll.com) , but if you're seeking admin access for content management, log into <https://admin.crunchyroll.com>
